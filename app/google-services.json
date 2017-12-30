@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "1069229792000",
+    "firebase_url": "https://symbolic-gift-98004.firebaseio.com",
+    "project_id": "symbolic-gift-98004",
+    "storage_bucket": "symbolic-gift-98004.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069229792000:android:14bae5338537bd3e",
+        "android_client_info": {
+          "package_name": "com.games4playstore.aroundyou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069229792000-fg01d5s99ag9ncpfo3qsa04gstqnivgg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.games4playstore.aroundyou",
+            "certificate_hash": "8cf4b4070f9fa3ada3bdf90de6f31b9a64f826a1"
+          }
+        },
+        {
+          "client_id": "1069229792000-ir5l0b2thffudgddm1uqj0dn866nodki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuvPoFDMQc-aUv80aPk0uko3EQzSOnizQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
